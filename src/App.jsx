@@ -1,4 +1,4 @@
-import HookState from './components/UseState01'
+import HookState from './components/UseState02'
 
 export default () => {
 
