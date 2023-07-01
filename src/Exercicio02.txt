@@ -1,0 +1,4 @@
+Cria um componente que vai apresentar 3 contadores apartir do mesmo componente
+apresentar esses componentes lado a lado.
+O primeiro deve diminuir e aumentar de 1 em 1
+O segundo de 5 em 5

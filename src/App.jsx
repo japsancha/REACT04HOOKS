@@ -1,11 +1,11 @@
-import HookState from './components/UseState02'
+import Contadores from './components/UseStateCounter'
 
 export default () => {
 
   return (
     <>
       <h1>React Hooks</h1>
-      <HookState />
+      <Contadores />
     </>
   )
 }
