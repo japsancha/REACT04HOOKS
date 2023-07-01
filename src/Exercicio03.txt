@@ -1,0 +1,3 @@
+Cria um componente que vai apresentar um valor
+Cria outro componente a ser apresentado dentro do componentes anterior que vai
+ter um botão que vai atualizar o valor do componente pai.
