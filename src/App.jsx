@@ -1,4 +1,4 @@
-import ComponentePai from './components/UseStateExercicio03'
+import ComponentePai from './components/UseStateExercicio04'
 
 export default () => {
 

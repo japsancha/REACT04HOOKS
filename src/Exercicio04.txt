@@ -1,0 +1,12 @@
+Cria um componente que vai receber atualuzação de dois componentes Filhos.
+Esses components filhos são instâncias do mesmo componente contador (inc e dec).
+Um dos componentes incrementa e decrementa de 5 em 5 e o outro de 10 em 10. 
+No componente pai, vai ser apresentado o resultado da adição dos valores 
+controlados pelos dois componentes filhos.
+
+(pai)
+
+valor: 1000
+
+<b- b+> (5 em 5)
+<b- b+> (10 em 10)

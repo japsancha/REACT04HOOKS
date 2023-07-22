@@ -1,5 +1,5 @@
 import Contador from './UseStateExercicio02'
-import './UseStateCounter.css'
+import './UseStateExercicioContador.css'
 
 export default () => {
   return (
