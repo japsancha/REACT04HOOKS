@@ -1,0 +1,7 @@
+Um componente pai tem 3 componentes de inc e dec (amesma instância)
+O componente pai tem um "state" que é um "array" de valores numéricos
+Cada componente vai controlar um valor desse "array"
+Os três valores do array devem ser apresentados no componente pai
+
+(pai)
+[0, 1, 2]
