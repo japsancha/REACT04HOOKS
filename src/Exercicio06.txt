@@ -1,0 +1,11 @@
+Criar um componente que contém um objecto cliente com as seguintes propriedades
+{
+  nome
+  apelido
+  cidade
+  email
+}
+O componente tem que ter 4 botões
+Cada botão altera o valor de cada uma das propriedades individualmente,
+sem EXECUTAR FUNÇÕES INDIRETAS
+Os valores devem ser apresentados.
